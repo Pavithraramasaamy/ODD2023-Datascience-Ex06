@@ -14,9 +14,11 @@ Read the given Data.
 ## Step2:
 Clean the Data Set using Data Cleaning Process.
 
-## Step3: Apply Feature Transformation techniques to all the features of the data set.
+## Step3: 
+Apply Feature Transformation techniques to all the features of the data set.
 
-## Step4: Print the transformed features.
+## Step4:
+Print the transformed features.
 
 ## PROGRAM:
 
